@@ -1,11 +1,7 @@
 {
     "maintenance": false,
-    "registeredBotNumbers": [
+    "registeredBotNumbers": 
         "6285777601319@s.whatsapp.net",
         "0987654321",
         "6285774220107"
-    ],
-    "registeredIpAddresses": [
-        "103.154.109.16",
-    ]
 }
